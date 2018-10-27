@@ -57,7 +57,7 @@ $ git pull
 Create the branch on your local machine and switch in this branch.
 
 ```
-git checkout -b give-your-new-branch-a-name
+$ git checkout -b give-your-new-branch-a-name
 ```
 
 You can check what branch you're currently in, by running the following command.
@@ -125,7 +125,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 Press Enter. Your local clone will be created.
 
 ```
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 Cloning into `Example-File`...
 remote: Counting objects: 10, done.
 remote: Compressing objects: 100% (8/8), done.
