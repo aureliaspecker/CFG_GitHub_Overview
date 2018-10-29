@@ -33,7 +33,7 @@ Open GitHub in your browser and create a repository. At the top right hand of yo
 In Terminal, [add the URL for the remote repository](https://help.github.com/articles/adding-a-remote/) where your local repository will be pushed.
 
 ```
-$ git remote add origin remote repository URL
+$ git remote add URL-of-remote-repository
 ```
 
 Origin stands for the repository that sits online in GitHub.
