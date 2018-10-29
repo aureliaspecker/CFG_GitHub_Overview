@@ -1,6 +1,6 @@
 # Using Git & Version Control with your command line
 
-Use the below commands to use Git and GitHub in your command line
+Use the below commands to use Git and GitHub in your command line.
 
 ## Instructions
 
@@ -28,7 +28,7 @@ Commit the files that you've staged in your local repository. The following comm
 $ git commit -m "Make first commit"
 ```
 
-Open GitHub in your browser and create a repository. At the top right hand of your GitHub repository's Quick Setup page, copy the remote repository URL.
+Open GitHub in your browser and create a repository. **Do not select Create with Readme**. At the top right hand of your GitHub repository's Quick Setup page, copy the remote repository URL.
 
 In Terminal, [add the URL for the remote repository](https://help.github.com/articles/adding-a-remote/) where your local repository will be pushed.
 
